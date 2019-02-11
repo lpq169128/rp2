@@ -16,4 +16,7 @@ public class Main {
     public void test4(){
         System.out.println("第四次提交数据");
     }
+    public void test5(){
+        System.out.println("第5次提交数据");
+    }
 }
